@@ -12,7 +12,7 @@ This notebook provides a data-driven analysis of beauty product trends, focusing
 3. Visualization: Use of visual techniques like bar charts, pie charts, and heatmaps to convey data insights.
 
 
-**Installation and Usage**
+**Installation and Usage:**
 
 1. Clone the repository:
 
