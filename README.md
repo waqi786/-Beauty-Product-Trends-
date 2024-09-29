@@ -5,7 +5,7 @@
 This notebook provides a data-driven analysis of beauty product trends, focusing on market shifts, consumer preferences, and popular product categories. The goal is to gain actionable insights into the beauty industry through thorough data exploration, feature engineering, and visualization techniques.
 
 
-**Key Features:**
+**Key Features**
 
 1. Data Exploration: Detailed examination and visualization of beauty product trends across various categories.
 2. Feature Engineering: Creation of new features to better understand consumer preferences and market dynamics.
