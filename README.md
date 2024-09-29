@@ -1,6 +1,6 @@
 # -Beauty-Product-Trends-
 
-**Overview**
+**Overview:**
 
 This notebook provides a data-driven analysis of beauty product trends, focusing on market shifts, consumer preferences, and popular product categories. The goal is to gain actionable insights into the beauty industry through thorough data exploration, feature engineering, and visualization techniques.
 
