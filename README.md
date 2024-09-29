@@ -57,7 +57,7 @@ The dataset includes various beauty product sales and consumer preference inform
 **Dataset Link:** https://www.kaggle.com/datasets/waqi786/most-used-beauty-cosmetics-products-in-the-world
 
 
-**License**
+**License:**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
