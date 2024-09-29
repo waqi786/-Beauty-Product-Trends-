@@ -49,7 +49,7 @@ This notebook provides a data-driven analysis of beauty product trends, focusing
 6. Seaborn
 
 
-**Dataset**
+**Dataset:**
 
 The dataset includes various beauty product sales and consumer preference information from different categories. The data is analyzed to uncover trends and make predictions about future market growth.
 
