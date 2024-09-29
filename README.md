@@ -39,7 +39,7 @@ This notebook provides a data-driven analysis of beauty product trends, focusing
 
 
 
-**Dependencies**
+**Dependencies:**
 
 1. Python 3.x
 2. Jupyter Notebook
