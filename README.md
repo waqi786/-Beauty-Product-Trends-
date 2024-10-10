@@ -1,4 +1,4 @@
-# -Beauty-Product-Trends-
+# Beauty Product Trends
 
 **Overview:**
 
